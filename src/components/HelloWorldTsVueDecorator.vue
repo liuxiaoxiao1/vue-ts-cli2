@@ -8,7 +8,6 @@
 
 <script lang="ts">
 import { Component, Prop, Vue, Watch } from 'vue-property-decorator'
-import _ from 'lodash'
 
 // vue-property-decorator
 @Component

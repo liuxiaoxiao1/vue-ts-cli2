@@ -91,7 +91,7 @@ import Component from 'vue-class-component'
 @Component
 export default class App extends Vue {
   // 初始化数据
-  msg = 'Welcome to Vue ts';
+  msg = 'Welcome to Vue ts 666';
   // 声明周期钩子
   mounted () {
     this.greet()
